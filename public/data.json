@@ -1,0 +1,393 @@
+[
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Classic",
+        "firstPublish": "1813",
+        "description": "Pride and Prejudice by Jane Austen is a timeless classic novel that was first published in 1813. The story revolves around the life of Elizabeth Bennet, a witty and independent young woman, and Mr. Darcy, a wealthy and reserved gentleman. As their paths cross and misconceptions abound, the novel explores themes of love, class, and society in early 19th-century England. With its sharp social commentary, memorable characters, and enduring romance, Pride and Prejudice has captured the hearts of readers for generations. Austen's wit and insight shine through her prose, making this novel a beloved masterpiece of English literature.",
+        "status": [
+            "For Swap",
+            "For Sell"
+        ],
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg"
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "genre": "Classic",
+        "firstPublish": "1851",
+        "description": "Moby-Dick, written by Herman Melville and first published in 1851, is an epic tale of Captain Ahab's relentless obsession with the elusive white whale, Moby Dick. The novel delves deep into themes of revenge, fate, and the complexities of the human spirit. Set aboard the whaling ship Pequod, the story follows the harrowing journey of Ahab and his crew as they pursue the infamous creature across the vast and treacherous sea. Melville's rich prose and philosophical musings make Moby-Dick a literary masterpiece that continues to captivate readers with its timeless exploration of the human condition.",
+        "status": "For Swap",
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327940656i/153747.jpg"
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "genre": "Classic",
+        "firstPublish": "1847",
+        "description": "Jane Eyre, first published in 1847 and written by Charlotte Brontë, is a timeless classic that tells the story of an orphaned governess named Jane Eyre. The novel explores Jane's struggles, her journey to independence, and her passionate romance with the enigmatic Mr. Rochester. Brontë's novel delves into themes of love, social class, and the search for identity in a society marked by strict conventions. Jane Eyre's strong-willed character and the gothic atmosphere of Thornfield Hall have made this novel a beloved classic.",
+        "status": "For Sell",
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1557343311i/10210.jpg"
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "genre": "Classic",
+        "firstPublish": "1847",
+        "description": "Wuthering Heights, first published in 1847, is a dark and passionate classic novel written by Emily Brontë. The story unfolds on the desolate Yorkshire moors and revolves around the tempestuous love between Catherine Earnshaw and the brooding Heathcliff. Their love defies societal norms and leads to tragic consequences. Brontë's novel explores themes of love, revenge, and the haunting effects of the past on the present. With its vivid characters and intense emotions, Wuthering Heights remains a timeless classic in the world of literature.",
+        "status": "For Swap",
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388212715i/6185.jpg"
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "genre": "Classic",
+        "firstPublish": "1869",
+        "description": "War and Peace, originally published in 1869, is a sweeping historical epic written by Leo Tolstoy. Set against the backdrop of the Napoleonic era in Russia, the novel follows the lives of several aristocratic families as they navigate love, war, and societal change. Tolstoy's masterpiece delves into the complexities of human nature, the futility of war, and the search for meaning in life. With its vast scope and richly developed characters, War and Peace is a monumental work of literature that continues to captivate readers with its profound insights.",
+        "status": [
+            "For Swap",
+            "For Sell"
+        ],
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413215930i/656.jpg"
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "firstPublish": "1925",
+        "description": "The Great Gatsby is a classic novel by F. Scott Fitzgerald, first published in 1925. It is a story of wealth, love, and tragedy set in the Roaring Twenties. The novel's narrator, Nick Carraway, becomes entangled with his enigmatic neighbor Jay Gatsby, who is known for his lavish parties and mysterious past. As Nick delves deeper into Gatsby's world, he uncovers secrets and obsessions that ultimately lead to a tragic climax. The Great Gatsby explores themes of the American Dream, excess, and the allure of the past. Fitzgerald's prose and vivid characters make this novel a timeless masterpiece.",
+        "status": "For Sell",
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671.jpg"
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "genre": "Classic",
+        "firstPublish": "1897",
+        "description": "Dracula, written by Bram Stoker and first published in 1897, is a classic Gothic horror novel. It introduces the iconic vampire Count Dracula and follows the efforts to thwart his reign of terror. The novel explores themes of fear, sexuality, and the battle between good and evil. With its atmospheric setting and chilling narrative, Dracula has become a timeless classic in the realm of horror literature.",
+        "status": "For Swap",
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245.jpg"
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "genre": "Classic",
+        "firstPublish": "1862",
+        "description": "Les Misérables, first published in 1862 by Victor Hugo, is a monumental classic novel set in 19th-century France. The story follows the lives of several characters, including Jean Valjean, a former convict seeking redemption, and Inspector Javert, who relentlessly pursues him. Hugo's novel explores themes of justice, love, and the human spirit in the face of adversity. With its sprawling narrative and memorable characters, Les Misérables is a masterpiece of literature that continues to inspire and resonate with readers around the world.",
+        "status": "For Sell",
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411852091i/24280.jpg"
+    },
+    {
+        "title": "The Adventures of Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "genre": "Classic",
+        "firstPublish": "1892",
+        "description": "The Adventures of Sherlock Holmes, first published in 1892, is a collection of detective stories by Arthur Conan Doyle. It introduces the brilliant detective Sherlock Holmes and his loyal friend Dr. John Watson. The stories explore the art of deduction and the solving of complex mysteries. With its clever plots and memorable characters, this collection has solidified Holmes as one of the most iconic literary detectives in history.",
+        "status": [
+            "For Swap",
+            "For Sell"
+        ],
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1164045516i/3590.jpg"
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "genre": "Classic",
+        "firstPublish": "1866",
+        "description": "Crime and Punishment, published in 1866 by Fyodor Dostoevsky, is a psychological novel set in 19th-century Russia. It follows the troubled Raskolnikov, who commits a murder and grapples with guilt and redemption. The novel explores themes of morality, punishment, and the human psyche.",
+        "status": "For Swap",
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382846449i/7144.jpg"
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "genre": "Classic",
+        "firstPublish": "1818",
+        "description": "Frankenstein, written by Mary Shelley and first published in 1818, is a seminal work of science fiction. It tells the story of Dr. Frankenstein's creation of a sentient being and the consequences that follow. The novel explores themes of creation, responsibility, and the human quest for knowledge.",
+        "status": [
+            "For Swap",
+            "For Sell"
+        ],
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631088473i/35031085.jpg"
+    },
+    {
+        "title": "Walden",
+        "author": "Henry David Thoreau",
+        "genre": "Classic",
+        "firstPublish": "1854",
+        "description": "Walden, published in 1854 by Henry David Thoreau, is a transcendentalist work that chronicles Thoreau's experiment in simple living by Walden Pond. It explores themes of nature, self-reliance, and the search for a meaningful existence.",
+        "status": "For Swap",
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630470982i/16902.jpg"
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "genre": "Classic",
+        "firstPublish": "1877",
+        "description": "Anna Karenina, written by Leo Tolstoy and first published in 1877, is a Russian novel that tells the tragic story of Anna Karenina's adulterous affair and its consequences. The novel explores themes of love, morality, and societal norms in 19th-century Russia.",
+        "status": "For Sell",
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546091617i/15823480.jpg"
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "genre": "Classic",
+        "firstPublish": "1861",
+        "description": "Great Expectations is a classic novel by Charles Dickens, first published in 1861. The story follows the life of Pip, an orphan who rises from humble beginnings to navigate the complexities of Victorian society. Dickens explores themes of ambition, class, and moral development through vivid characters and intricate storytelling.",
+        "status": ["For Swap", "For Sell"],
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631687432i/2623.jpg"
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "genre": "Classic",
+        "firstPublish": "1890",
+        "description": "The Picture of Dorian Gray, first published in 1890, is a novel by Oscar Wilde. It tells the story of Dorian Gray, a young man whose portrait ages while he remains youthful and beautiful. The novel explores themes of decadence, aestheticism, and the consequences of moral decay.",
+        "status": "For Swap",
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546103428i/5297.jpg"
+    },
+    {
+        "title": "Treasure Island",
+        "author": "Robert Louis Stevenson",
+        "genre": "Adventure",
+        "firstPublish": "1883",
+        "description": "Treasure Island, first published in 1883 by Robert Louis Stevenson, is a classic adventure novel that takes readers on a thrilling journey to uncover buried treasure. The story follows young Jim Hawkins as he embarks on a treasure hunt after discovering a pirate's map. He sets sail on the ship Hispaniola, unaware of the dangers and betrayals that await him. Stevenson's tale is filled with swashbuckling pirates, hidden treasures, and a quest for riches that captures the imagination of readers of all ages.",
+        "status": "For Sell",
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1485248909i/295.jpg"
+    },
+    {
+        "title": "The Call of the Wild",
+        "author": "Jack London",
+        "genre": "Adventure",
+        "firstPublish": "1903",
+        "description": "The Call of the Wild, written by Jack London and first published in 1903, is an adventure novel that explores the primal instincts of a domesticated dog named Buck. Stolen from his comfortable home, Buck is thrust into the harsh world of the Alaskan wilderness during the Klondike Gold Rush. As he adapts to the brutal conditions, Buck's wild instincts awaken. London's novel is a gripping tale of survival, freedom, and the call of nature that resonates with readers seeking adventure and the untamed spirit of the wild.",
+        "status": [
+            "For Swap",
+            "For Sell"
+        ],
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1452291694i/1852.jpg"
+    },
+    {
+        "title": "Robinson Crusoe",
+        "author": "Daniel Defoe",
+        "genre": "Adventure",
+        "firstPublish": "1719",
+        "description": "Robinson Crusoe, published in 1719 by Daniel Defoe, is considered one of the earliest adventure novels in English literature. The story follows the mariner and castaway Robinson Crusoe as he survives on a deserted island for years, learning to fend for himself and adapting to his solitary existence. Crusoe's tale of resourcefulness, survival, and eventual rescue has captivated readers for centuries and remains a classic of adventure fiction.",
+        "status": "For Sell",
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682976488i/2932.jpg"
+    },
+    {
+        "title": "The Swiss Family Robinson",
+        "author": "Johann David Wyss",
+        "genre": "Adventure",
+        "firstPublish": "1812",
+        "description": "The Swiss Family Robinson, originally published in 1812 by Johann David Wyss, tells the story of a Swiss family shipwrecked on a deserted island. The family's resourcefulness, ingenuity, and determination to survive are at the heart of this classic adventure tale. As they build shelter, hunt for food, and face various challenges, readers are treated to a thrilling and inspiring narrative of survival in the wilderness.",
+        "status": "For Swap",
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385171459i/62111.jpg"
+    },
+    {
+        "title": "Twenty Thousand Leagues Under the Sea",
+        "author": "Jules Verne",
+        "genre": "Adventure",
+        "firstPublish": "1870",
+        "description": "Twenty Thousand Leagues Under the Sea, written by Jules Verne and first published in 1870, is an adventure novel that takes readers on a voyage beneath the ocean's depths. Captain Nemo and his submarine, the Nautilus, are at the center of this thrilling story. Professor Aronnax and his companions join Nemo's crew and explore the wonders and mysteries of the sea. Verne's novel is a classic of science fiction and adventure, filled with underwater exploration, encounters with sea creatures, and the allure of the unknown depths.",
+        "status": "For Sell",
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494979127i/33507.jpg"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "genre": "Adventure",
+        "firstPublish": "1954-1955",
+        "description": "The Lord of the Rings, written by J.R.R. Tolkien and published between 1954 and 1955, is a monumental adventure epic set in the fictional world of Middle-earth. The story follows the quest to destroy the One Ring, an evil artifact that threatens the world. Frodo Baggins, accompanied by a diverse fellowship, embarks on a perilous journey to Mount Doom to end the Ring's power. Tolkien's masterpiece is filled with rich mythology, epic battles, and unforgettable characters, making it a beloved classic of adventure and fantasy literature.",
+        "status": "For Sell",
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566425108i/33.jpg"
+    },
+    {
+        "title": "Jurassic Park",
+        "author": "Michael Crichton",
+        "genre": "Adventure",
+        "firstPublish": "1990",
+        "description": "Jurassic Park, published in 1990 by Michael Crichton, is a thrilling adventure novel that introduces the concept of bringing dinosaurs back to life through genetic engineering. A group of scientists and visitors must contend with the dangers of a dinosaur-infested island when the park's security systems fail. Crichton's novel is a gripping tale of science gone awry, survival, and the clash between humans and prehistoric creatures.",
+        "status": [
+            "For Swap",
+            "For Sell"
+        ],
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529604411i/40604658.jpg"
+    },
+    {
+        "title": "Into the Wild",
+        "author": "Jon Krakauer",
+        "genre": "Adventure",
+        "firstPublish": "1996",
+        "description": "Into the Wild, published in 1996 by Jon Krakauer, is a non-fiction adventure book that tells the true story of Christopher McCandless, a young man who leaves behind his old life to live in the wilderness of Alaska. The book explores McCandless's journey, encounters with nature, and ultimate quest for self-discovery. Krakauer's narrative is a compelling exploration of the desire for adventure and escape from the constraints of society.",
+        "status": "For Swap",
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634587789i/1845.jpg"
+    },
+    {
+        "title": "The Shining",
+        "author": "Stephen King",
+        "genre": "Adventure",
+        "firstPublish": "1977",
+        "description": "The Shining, written by Stephen King and published in 1977, is a classic adventure-horror novel. It follows the Torrance family as they become the winter caretakers of the haunted Overlook Hotel. As the hotel's supernatural forces manifest, the family must confront their inner demons and the malevolent spirits that haunt the hotel's halls. King's novel is a chilling and suspenseful adventure into the realms of the paranormal and psychological horror.",
+        "status": "For Sell",
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353277730i/11588.jpg"
+    },
+    {
+        "title": "The Hunt for Red October",
+        "author": "Tom Clancy",
+        "genre": "Adventure",
+        "firstPublish": "1984",
+        "description": "The Hunt for Red October, published in 1984 by Tom Clancy, is a military thriller and adventure novel. The story revolves around the Soviet submarine Red October, equipped with a revolutionary propulsion system, and the efforts of the CIA analyst Jack Ryan to prevent its defection to the United States. Clancy's novel is a gripping tale of espionage, submarine warfare, and high-stakes adventure during the Cold War era.",
+        "status": "For Sell",
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1281995542i/19691.jpg"
+    },
+    {
+        "title": "The Revenant",
+        "author": "Michael Punke",
+        "genre": "Adventure",
+        "firstPublish": "2002",
+        "description": "The Revenant, published in 2002 by Michael Punke, is a gripping adventure novel based on the true story of Hugh Glass, a frontiersman and fur trapper in the early 19th century. After a brutal bear attack leaves him severely wounded and abandoned by his expedition team, Glass embarks on a harrowing journey of survival and revenge. Punke's novel is a tale of resilience, determination, and the indomitable human spirit in the face of extreme adversity.",
+        "status": "For Sell",
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1409498796i/22836957.jpg"
+    },
+    {
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "genre": "Adventure",
+        "firstPublish": "2011",
+        "description": "The Martian, written by Andy Weir and published in 2011, is a thrilling adventure novel set on Mars. The story follows astronaut Mark Watney, who is stranded on the Red Planet after a mission goes awry. Watney's struggle for survival, ingenuity, and his efforts to signal Earth for rescue form the core of this gripping narrative. Weir's novel is a modern classic of science fiction and adventure, blending humor and suspense as Watney battles the harsh Martian environment.",
+        "status": "For Swap",
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1413706054i/18007564.jpg"
+    },
+    {
+        "title": "Into the Water",
+        "author": "Paula Hawkins",
+        "genre": "Adventure",
+        "firstPublish": "2017",
+        "description": "Into the Water, published in 2017 by Paula Hawkins, is a mystery-adventure novel that revolves around the mysterious deaths of women in a small town. The narrative explores the dark secrets and interconnected lives of the townspeople, culminating in a suspenseful and unpredictable adventure. Hawkins' novel is a thrilling journey into the depths of human psychology and the complexities of small-town life.",
+        "status": "For Swap",
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494055413i/33151805.jpg"
+    },
+    {
+        "title": "The Lost City of Z",
+        "author": "David Grann",
+        "genre": "Adventure",
+        "firstPublish": "2009",
+        "description": "The Lost City of Z, published in 2009 by David Grann, is a non-fiction adventure book that traces the journey of British explorer Percy Fawcett and his quest to find a mythical city in the Amazon rainforest. Fawcett's disappearance during his final expedition in 1925 adds an element of mystery to this thrilling account. Grann's book is a captivating exploration of obsession, exploration, and the allure of the unknown.",
+        "status": "For Swap",
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320487318i/3398625.jpg"
+    },
+    {
+        "title": "Station Eleven",
+        "author": "Emily St. John Mandel",
+        "genre": "Adventure",
+        "firstPublish": "2014",
+        "description": "Station Eleven, written by Emily St. John Mandel and published in 2014, is a post-apocalyptic adventure novel that follows a troupe of Shakespearean actors traveling through a world devastated by a pandemic. The novel weaves together multiple timelines and characters, exploring the interplay of art, survival, and human connections in a world transformed by catastrophe. Mandel's novel is a thought-provoking and lyrical adventure in a dystopian landscape.",
+        "status": "For Swap",
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1680459872i/20170404.jpg"
+    },
+    {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genre": "Mystery",
+        "publication": "2003",
+        "description": "The Da Vinci Code is a gripping mystery novel by Dan Brown, published in 2003. The story revolves around Harvard symbologist Robert Langdon and cryptologist Sophie Neveu as they follow a trail of clues left by a murder victim to unravel a centuries-old mystery. The novel delves into religious and historical themes, exploring the hidden secrets of the Catholic Church, the Knights Templar, and the search for the Holy Grail. With its fast-paced plot and intricate puzzles, The Da Vinci Code became a worldwide bestseller and a cultural phenomenon.",
+        "status": "For Sell",
+        "condition": "New",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ad2137d5ee5a7cae407dc073"
+    },
+    {
+        "title": "Angels & Demons",
+        "author": "Dan Brown",
+        "genre": "Mystery",
+        "publication": "2000",
+        "description": "Angels & Demons, published in 2000, is a thrilling mystery novel by Dan Brown. It introduces the character of Robert Langdon, a Harvard professor of symbology, as he investigates a murder at the Vatican and unravels a conspiracy involving the Illuminati, a secret society. The novel takes readers on a suspenseful journey through Rome's historic landmarks and the world of science and religion. Angels & Demons is a heart-pounding exploration of ancient symbols and modern science, making it a compelling read.",
+        "status": "For Swap",
+        "condition": "Used",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639587647l/960.jpg"
+    },
+    {
+        "title": "Inferno",
+        "author": "Dan Brown",
+        "genre": "Mystery",
+        "publication": "2013",
+        "description": "Inferno, published in 2013, is another thrilling mystery by Dan Brown featuring Robert Langdon. This time, Langdon finds himself in Florence, Italy, racing against time to solve a riddle inspired by Dante's Inferno and prevent a global catastrophe. The novel combines art, literature, and science to create a high-stakes adventure that keeps readers on the edge of their seats.",
+        "status": "For Sell",
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534070896i/17212231.jpg"
+    },
+    {
+        "title": "The Lost Symbol",
+        "author": "Dan Brown",
+        "genre": "Mystery",
+        "publication": "2009",
+        "description": "The Lost Symbol, published in 2009, is the third Robert Langdon mystery novel by Dan Brown. Set in Washington, D.C., the story centers on Freemasonry, the hidden secrets of the nation's capital, and the search for the ancient knowledge that could change the course of history. Dan Brown weaves a complex web of symbols and codes in this fast-paced thriller.",
+        "status": ["For Swap", "For Sell"],
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534070883i/6411961.jpg"
+    },
+    {
+        "title": "Digital Fortress",
+        "author": "Dan Brown",
+        "genre": "Mystery",
+        "publication": "1998",
+        "description": "Digital Fortress, published in 1998, is a gripping mystery novel by Dan Brown. It explores the world of cryptography and government secrecy as it follows the story of Susan Fletcher, a brilliant cryptanalyst working for the National Security Agency (NSA). When a powerful code-breaking machine is threatened by a mysterious code called Digital Fortress, Susan must unravel the mystery to prevent a national security disaster. The novel combines technology, espionage, and suspense to keep readers engaged.",
+        "status": "For Sell",
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360095966i/11125.jpg"
+    },
+    {
+        "title": "Deception Point",
+        "author": "Dan Brown",
+        "genre": "Mystery",
+        "publication": "2001",
+        "description": "Deception Point, published in 2001, is a political thriller by Dan Brown. It follows the story of Rachel Sexton, a NASA intelligence analyst, who becomes embroiled in a high-stakes conspiracy when she discovers evidence of extraterrestrial life in a meteorite. As she investigates, she realizes that the discovery may not be what it seems. The novel is a fast-paced rollercoaster of suspense, politics, and scientific intrigue.",
+        "status": ["For Swap", "For Sell"],
+        "condition": "Used",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1551277487i/976.jpg"
+    },
+    {
+        "title": "Origin",
+        "author": "Dan Brown",
+        "genre": "Mystery",
+        "publication": "2017",
+        "description": "Origin, published in 2017, is another thrilling mystery novel by Dan Brown. In this story, Robert Langdon is drawn into a quest to uncover the answers to two fundamental questions: Where do we come from, and where are we going? The novel explores the realms of artificial intelligence, science, and religion as Langdon races against time to unveil a discovery that could change humanity's future. Origin is a thought-provoking and action-packed adventure.",
+        "status": "For Sell",
+        "condition": "New",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576370917i/32283133.jpg"
+    }
+]
+
+
+
