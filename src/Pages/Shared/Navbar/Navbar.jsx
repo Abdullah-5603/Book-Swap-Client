@@ -7,7 +7,7 @@ const Navbar = () => {
     const [isOpen, setISOpen] = useState(true)
     return (
 
-        <div className="navbar bg-base-100">
+        <div className="navbar bg-amber-600">
             <div className="navbar-start justify-between w-full">
                 <a className="text-xl md:text-2xl uppercase font-bold">Book Swap</a>
                 <div className="md:hidden top-16 w-1/3 text-center">
