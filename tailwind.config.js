@@ -5,7 +5,14 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundColor: {
+        "card-btn": "#FF5733", // Background color for your custom button
+      },
+      textColor: {
+        "card-btn-text": "#FFFFFF", // Text color for your custom button
+      },
+    },
   },
   daisyui : {
     themes : ['light']
