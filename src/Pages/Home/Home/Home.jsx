@@ -17,7 +17,7 @@ const Home = () => {
     return (
         <div className='flex justify-center items-center mx-4 md:mx-10 my-4 md:my-10'>
             {isLoading &&<div className='mt-36'><Loader /></div>}
-            <div className='grid grid-cols-2 md:grid-cols-4 gap-5'>
+            <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-5'>
                 {
                     allBooks.map(book => <BooksCard data={book}/>)
                 }
